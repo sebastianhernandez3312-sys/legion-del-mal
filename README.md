@@ -6,7 +6,7 @@
 ![Release](https://img.shields.io/github/v/release/sebastianhernandez3312-sys/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/sebastianhernandez3312-sys/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/sebastianhernandez3312-sys/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/sebastianhernandez3312-sys/legion-del-mal)
+![Licencia](https://img.shields.io/github/license/sebastianhernandez3312-sys/legion-del-mal?cacheSeconds=60)
 
 # 🦹‍♂️ La Legión del Mal
 
